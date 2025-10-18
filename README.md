@@ -16,8 +16,8 @@ It is suggested to work on exercises using a local installation of OCaml.
 1. <s>[Parrot trouble](level-1/parrot-trouble/README.md)</s> _done_
 1. <s>[Increment optional value](level-1/increment-option/README.md)</s> _done_
 1. <s>[Squirrel play](level-1/squirrel-play/README.md)</s> _done_
-1. [Exam committee](level-1/exam-committee/README.md)
-1. [Movie ratings](level-1/movie-ratings/README.md)
+1. <s>[Exam committee](level-1/exam-committee/README.md)</s> _done_
+1. <s>[Movie ratings](level-1/movie-ratings/README.md)</s> _done_
 1. [Best offer](level-1/best-offer/README.md)
 1. [Even and odd](level-1/even-odd/README.md)
 1. [In range](level-1/in-range/README.md)
