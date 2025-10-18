@@ -8,14 +8,14 @@ It is suggested to work on exercises using a local installation of OCaml.
 
 1. [Logical Nand](level-1/nand/README.md)
 1. [Logical Xor](level-1/xor/README.md)
-1. <s>[Multiplexer](level-1/mux/README.md)</s>
-1. <s>[Absolute value](level-1/absolute-value/README.md)</s>
-1. <s>[Max of two natural numbers](level-1/maxnat/README.md)</s>
-1. <s>[Weekly lectures](level-1/weekly-lectures/README.md)</s>
-1. <s>[Blood donations](level-1/blood-donations/README.md)</s>
-1. <s>[Parrot trouble](level-1/parrot-trouble/README.md)</s>
-1. <s>[Increment optional value](level-1/increment-option/README.md)</s>
-1. [Squirrel play](level-1/squirrel-play/README.md)
+1. <s>[Multiplexer](level-1/mux/README.md)</s> _done_
+1. <s>[Absolute value](level-1/absolute-value/README.md)</s> _done_
+1. <s>[Max of two natural numbers](level-1/maxnat/README.md)</s> _done_
+1. <s>[Weekly lectures](level-1/weekly-lectures/README.md)</s> _done_
+1. <s>[Blood donations](level-1/blood-donations/README.md)</s> _done_
+1. <s>[Parrot trouble](level-1/parrot-trouble/README.md)</s> _done_
+1. <s>[Increment optional value](level-1/increment-option/README.md)</s> _done_
+1. <s>[Squirrel play](level-1/squirrel-play/README.md)</s> _done_
 1. [Exam committee](level-1/exam-committee/README.md)
 1. [Movie ratings](level-1/movie-ratings/README.md)
 1. [Best offer](level-1/best-offer/README.md)
