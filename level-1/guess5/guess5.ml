@@ -9,3 +9,5 @@ let guess5 n =
     (n = r, r)
   else
     (false, -1);;
+
+guess5 3;;
