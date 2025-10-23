@@ -29,7 +29,10 @@ It is suggested to work on exercises using a local installation of OCaml.
 1. <s>[7, 11 and doubles](level-1/7-11-doubles/README.md)</s> _done_
 
 ## Level 2
-
+1. [Point](level-2/point/README.md)
+1. [Simple calculator](level-2/simple-calc/README.md)
+1. [Nested tuples](level-2/nested-tuples/README.md)
+1. [Personal data](level-2/personal-data/README.md)
 1. [Function composition](level-2/compose/README.md)
 1. [Flip arguments](level-2/flip-curry/README.md)
 1. [Both true](level-2/both-true/README.md)
