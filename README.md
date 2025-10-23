@@ -22,7 +22,7 @@ It is suggested to work on exercises using a local installation of OCaml.
 1. <s>[Even and odd](level-1/even-odd/README.md)</s> _done_
 1. <s>[In range](level-1/in-range/README.md)</s> _done_
 1. <s>[x to the 9th](level-1/exp9/README.md)</s> _done_
-1. <s>[Highest card wins](level-1/highest-card-wins/README.md)</s>
+1. <s>[Highest card wins](level-1/highest-card-wins/README.md)</s> _done_
 1. <s>[Head or tail](level-1/head-or-tail/README.md)</s> _done_
 1. <s>[Min and max of 3 values](level-1/minmax3/README.md)</s> _done_
 1. <s>[Guess a number](level-1/guess5/README.md)</s> _done_
