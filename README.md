@@ -30,7 +30,7 @@ It is suggested to work on exercises using a local installation of OCaml.
 
 ## Level 2
 1. <s>[Point](level-2/point/README.md)</s> _done_
-1. [Simple calculator](level-2/simple-calc/README.md)
+1. <s>[Simple calculator](level-2/simple-calc/README.md)</s> _done_
 1. [Nested tuples](level-2/nested-tuples/README.md)
 1. [Personal data](level-2/personal-data/README.md)
 1. [Function composition](level-2/compose/README.md)
